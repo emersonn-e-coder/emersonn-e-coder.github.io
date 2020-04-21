@@ -3,6 +3,8 @@
 ### Site Mercedes-Benz ### 
 
 * [Mercedes Benz](https://emersonn-e-coder.github.io/Mercedes-Benz/) - Escolha a cor de sua Mercedes. (Desenvolvido com JS, CSS3, HTML5)
+    *  Site responsivo mobile 360 x 640
+    *  Menu display 
 
 ### Bottons de redes sociais para o footer do site ###
 
