@@ -12,4 +12,6 @@
 
 * [Social Icons](https://emersonn-e-coder.github.io/Social-icons/) - Bottons de rodapé, redes sociais.
 * [Social Media](https://emersonn-e-coder.github.io/Social-Media/) - Bottons para footer de seu site.
+    * Responsivo mobile 340 x 640 
+![](https://github.com/emersonn-e-coder/Social-Media/blob/master/imagens/paer-coruja-ofic.png)
 
