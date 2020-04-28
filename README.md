@@ -1,6 +1,7 @@
 ## Front-End Development and Digital Marketing ##
 ### Site Gabriel Teles (Modelo) ###
 * [Gabriel Teles](https://emersonn-e-coder.github.io/Site-Modelo-Gabriel/)
+![](https://github.com/emersonn-e-coder/Site-Modelo-Gabriel/blob/master/imagens/gtgtgtg.png)
 
 ### Site Mercedes-Benz ### 
 
