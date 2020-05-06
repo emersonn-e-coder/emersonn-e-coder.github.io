@@ -1,6 +1,6 @@
 ## Front-End Development and Digital Marketing ##
 ### Site Gabriel Teles (Modelo) ###
-* Responsivo mobile
+* Responsivo mobile Moto G4 - Galaxy S5 - J5 - S7
 * [Gabriel Teles](https://emersonn-e-coder.github.io/Site-Modelo-Gabriel/)
 
 ![](https://github.com/emersonn-e-coder/Site-Modelo-Gabriel/blob/master/imagens/paper-gabriel-git.png)
