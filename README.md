@@ -3,7 +3,7 @@
 * Responsivo mobile
 * [Gabriel Teles](https://emersonn-e-coder.github.io/Site-Modelo-Gabriel/)
 
-![](https://github.com/emersonn-e-coder/Site-Modelo-Gabriel/blob/master/imagens/gtgtgtg.png)
+![](https://github.com/emersonn-e-coder/Site-Modelo-Gabriel/blob/master/imagens/paper-gabriel-git.png)
 
 ### Site Mercedes-Benz ### 
 
